@@ -1,7 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Rancho&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
 *,*::before,*::after{
     box-sizing: border-box;
 }
 *{
     margin: 0;
     padding: 0;
+}
+h1{
+   background-color: rgba(65, 173, 248, 0.4); 
+color: #ffe119;
+font-size: 36px;
+
+font-family: Rancho;
+text-align: center;
+}
+body{
+    background-image: url(strawhats.jpg);
+    
+}
+p{
+    font-family: Bebas Neue;
+    font-size: 24px;
+  color: #e40404;
+background-color:rgba(65, 173, 248, 0.4);
+text-align: center;
+border: 100px 100px 100px;
+padding: 25px 100px;
+}
+#pair{
+    display: flex;
+    text-align: center;
+}
+#pairing{
+    display: flex;
+    text-align: center;
+}
+#footer{
+    text-align: center;
+    color: #1747d8;
 }
