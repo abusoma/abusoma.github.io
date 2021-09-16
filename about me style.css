@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+
+div{
+    text-align: center;
+    padding: 25px 15px;
+
+}
+body{
+    background-image:url(IMG_4763.JPG);
+    background-size: cover;
+}
+p{
+    font-size: 24px;
+    font-family: PT Sans ;
+    color: #e40404;
+}   
+h2{
+    font-size: 36px;
+    font-family: Oswald;
+    color:#ffe119 ;
+}
+h1{font-size: 48px;
+font-family: Oswald;
+color: #ffe119;}
+li{
+    font-size: 24px;
+    font-family: PT Sans ;
+color: #e40404;
+}
+footer{
+    text-align: center;
+}
